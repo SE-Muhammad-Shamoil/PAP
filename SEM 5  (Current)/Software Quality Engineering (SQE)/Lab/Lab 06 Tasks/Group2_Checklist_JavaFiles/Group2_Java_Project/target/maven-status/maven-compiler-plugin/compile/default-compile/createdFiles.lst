@@ -1,0 +1,14 @@
+defect\RelayCommunication.class
+defect\Communicable.class
+defect\IonThrusterPropulsion.class
+defect\LaserCommunication.class
+defect\RFCommunication.class
+defect\Maneuverable.class
+defect\Propulsion.class
+defect\Landable.class
+defect\Launchable.class
+defect\Rocket.class
+defect\SolidFuelPropulsion.class
+defect\SpaceDemo.class
+defect\ParachuteLanding.class
+defect\PoweredLanding.class
